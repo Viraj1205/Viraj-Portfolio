@@ -18,25 +18,25 @@ const Portfolio = () => {
     {
       id: 2,
       src: youtube,
-      demo : "youtube-clone-gamma-blue.vercel.app",
+      demo : "https://youtube-clone-gamma-blue.vercel.app",
       code : "https://github.com/Viraj1205/youtube-clone",
     },
     {
       id: 3,
       src: weather,
-      demo : "weather-app-project-beta.vercel.app",
+      demo : "https://weather-app-project-beta.vercel.app",
       code : "https://github.com/Viraj1205/weatherAppProject",
     },
     {
       id: 4,
       src: password,
-      demo : "password-generator-lemon-three.vercel.app",
+      demo : "https://password-generator-lemon-three.vercel.app",
       code : "https://github.com/Viraj1205/passwordGenerator",
     },
     {
       id: 5,
       src: tictaktoe,
-      demo : "tictaktoe-pied.vercel.app",
+      demo : "https://tictaktoe-pied.vercel.app",
       code : "https://github.com/Viraj1205/tictaktoe",
     },
     
