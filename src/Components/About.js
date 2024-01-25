@@ -4,7 +4,7 @@ const About = () => {
   return (
     <div
       name="about"
-      className="w-full h-screen bg-gradient-to-b from-gray-800 to-black text-white"
+      className="w-full h-fit bg-gradient-to-b from-gray-800 to-black text-white"
     >
       <div className="max-w-screen-lg p-4 mx-auto flex flex-col justify-center w-full h-full">
         <div className="pb-4">
@@ -14,24 +14,11 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-16">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          
+        I am a skilled front-end developer specializing in HTML, CSS, and JavaScript, with a focus on React.js and Redux Toolkit. My expertise extends to crafting dynamic and responsive web applications, ensuring seamless user experiences. Leveraging my proficiency in Tailwind CSS, I design visually appealing interfaces that strike the perfect balance between aesthetics and functionality. With a keen eye for detail and a passion for creating compelling digital experiences, I bring a comprehensive skill set to the forefront, consistently delivering innovative solutions that elevate the user interface and overall design of web projects.
         </p>
 
-        <br />
-
-        <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
-        </p>
+    
       </div>
     </div>
   );
