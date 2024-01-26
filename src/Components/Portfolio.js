@@ -12,8 +12,8 @@ const Portfolio = () => {
     {
       id: 1,
       src: netflix,
-      demo : "",
-      code : "https://github.com/Viraj1205/netflix-react",
+      demo : "netflix-gpt-sepia.vercel.app",
+      code : "https://github.com/Viraj1205/netflix-gpt",
     },
     {
       id: 2,
