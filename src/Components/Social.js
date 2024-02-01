@@ -8,13 +8,13 @@ const Social = () => {
         href="https://www.linkedin.com/in/viraj-shinde-829970222/"
         target="_blank"
         rel="noopener noreferrer"
-        className="bg-blue-500 px-3 py-2 rounded-full text-white rounded-md hover:scale-110 duration-300"
+        className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
         LinkedIn
       </a>
       <a
         href="mailto:virajshinde1298@gmail.com"
-        className="bg-blue-500 px-3 py-2 rounded-full text-white rounded-md hover:scale-110 duration-300"
+        className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
         Email
       </a>
@@ -22,7 +22,7 @@ const Social = () => {
         href="https://github.com/Viraj1205"
         target="_blank"
         rel="noopener noreferrer"
-        className="bg-blue-500 px-3 py-2 rounded-full text-white rounded-md hover:scale-110 duration-300"
+        className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
         GitHub
       </a>
@@ -30,7 +30,7 @@ const Social = () => {
         href="./Viraj_s_Resume (2).pdf"
         target="_blank"
         download={true}
-        className="bg-blue-500 px-3 py-2 rounded-full text-white rounded-md hover:scale-110 duration-300"
+        className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
         Download Resume
       </a>
