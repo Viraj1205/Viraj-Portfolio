@@ -1,5 +1,6 @@
 // Social.js
 import React from 'react';
+import { FaGithub } from 'react-icons/fa';
 
 const Social = () => {
   return (
@@ -10,13 +11,13 @@ const Social = () => {
         rel="noopener noreferrer"
         className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
-        LinkedIn
+        <FaGithub size={30}/>
       </a>
       <a
         href="mailto:virajshinde1298@gmail.com"
         className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
-        Email
+        <FaGithub size={30}/>
       </a>
       <a
         href="https://github.com/Viraj1205"
@@ -24,7 +25,7 @@ const Social = () => {
         rel="noopener noreferrer"
         className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
-        GitHub
+        <FaGithub size={30}/>
       </a>
       <a
         href="./Viraj_s_Resume (2).pdf"
@@ -32,7 +33,7 @@ const Social = () => {
         download={true}
         className="bg-blue-500 px-3 py-2 rounded-full text-white hover:scale-110 duration-300"
       >
-        Download Resume
+        <FaGithub size={30}/>
       </a>
     </div>
   );
